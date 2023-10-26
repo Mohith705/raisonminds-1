@@ -1,0 +1,100 @@
+.academics {
+    width: 100%;
+    margin: auto;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 2rem 2rem;
+}
+
+.row {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.facilities {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-family: var(--font-family);
+}
+
+.facilities-col {
+    flex-basis: 31%;
+    margin-bottom: 5%;
+    text-align: left;
+}
+
+.facilities-col img {
+    width: 100%;
+}
+
+.academics_heading {
+    padding-top: 35px;
+    padding-bottom: 26.25px;
+    font-size: 3.5rem;
+    line-height: 1.59375;
+    font-family: Source Sans Pro, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.academics_info {
+    font-weight: 100;
+    font-size: 1.6em;
+    line-height: 1.9;
+    letter-spacing: 2px;
+    width: 800px;
+    margin: auto;
+}
+
+.facilities-col p {
+    padding-bottom: 20px;
+}
+
+.facilities-col a {
+    color: blue;
+}
+
+.facilities-col a:hover {
+    text-decoration: underline;
+}
+
+.facilities-col h3 {
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.about_text_button button {
+    padding: 1rem 4rem;
+    color: #fff;
+    background-color: var(--background-color);
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 850px) {
+    .row {
+        flex-direction: column;
+        width: 100%;
+        margin: auto;
+    }
+
+    .academics_info {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .row {
+        flex-direction: column;
+    }
+}

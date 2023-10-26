@@ -1,0 +1,63 @@
+[
+    {
+        "header": "A purposeful University",
+        "content": "VIT-AP University (VIT-AP), also known as Vellore Institute of Technology, Andhra Pradesh or VIT University, Andhra Pradesh, is a private research university located in Inavolu, Amaravati, the capital of Andhra Pradesh, India which was found on 2017 under the child university of Vellore Institute Of Technology, Vellore.",
+        "footer": "More about VIT-AP"
+    },
+    {
+        "header": "Academics",
+        "footer": "Preparing students to make meaningful contributions to society as engaged citizens and leaders in a complex world",
+        "content": [
+            {
+                "id": 1,
+                "title": "Undergraduate Education",
+                "desc": "Rich learning experiences that provide a broad liberal arts foundation and deep subject-area expertise"
+            },
+            {
+                "id": 2,
+                "title": "Graduate Education",
+                "desc": "Unsurpassed opportunities to participate in the advancement of entire fields of knowledge"
+            },
+            {
+                "id": 3,
+                "title": "Driving impact",
+                "desc": "Continuing adult education, executive and professional programs, and programs for K-12 students"
+            }
+        ]
+    },
+    {
+        "header": "Campus Life",
+        "footer": "Building a vibrant community of creative and accomplished people from around the world",
+        "content": [
+            {
+                "id": 1,
+                "title": "Student Life",
+                "desc": "A residential campus with diverse housing, exceptional dining, and over 600 student organizations"
+            },
+            {
+                "id": 2,
+                "title": "Arts & Culture",
+                "desc": "A rich tradition of fostering creativity and a vibrant arts district on campus"
+            },
+            {
+                "id": 3,
+                "title": "Recreation & Wellness",
+                "desc": "State-of-the-art facilities and fitness programs to encourage movement and play"
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "id": 1,
+                "title": "Explore the possibilities of a VIT-AP education as you map out your college journey.",
+                "desc": "We look for distinctive students who exhibit an abundance of energy and curiosity in their classes, activities, projects, research, and lives."
+            },
+            {
+                "id": 2,
+                "title": "VIT-AP meets the full financial need of every admitted undergrad who qualifies for assistance.",
+                "desc": "Nearly 80% of undergrads receive some form of financial assistance through specific scholarships, excellence awards."
+            }
+        ]
+    }
+]

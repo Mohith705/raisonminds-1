@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "70+ JS Challenges: Data Structures & Algorithms",
+        "level": "INTERMEDIATE",
+        "url": "https://www.traversymedia.com/javascript-challeges"
+    },
+    {
+        "id": 2,
+        "title": "Bootstrap 5 From Scratch\nBuild 5 Modern Websites",
+        "level": "BEGINNER",
+        "url": "https://traversymedia.com/bootstrap-from-scratch"
+    },
+    {
+        "id": 3,
+        "title": "MERN From Scratch\neCommerce Platform",
+        "level": "INTERMEDIATE",
+        "url": "https://www.traversymedia.com/mern-stack-from-scratch"
+    },
+    {
+        "id": 4,
+        "title": "Modern JavaScript From The Beginning 2.0",
+        "level": "ALL LEVELS",
+        "url": "https://traversymedia.com/modern-javascript-2-0"
+    },
+    {
+        "id": 5,
+        "title": "React Front To Back",
+        "level": "BEGINNER - INTERMEDIATE",
+        "url": "https://traversymedia.com/Modern-React-Front-To-Back-Course"
+    },
+    {
+        "id": 6,
+        "title": "50 Projects in 50 Days - HTML, CSS & JavaScript",
+        "level": "ALL LEVELS",
+        "url": "https://traversymedia.com/50-Projects-In-50-Days"
+    },
+    {
+        "id": 7,
+        "title": "Modern HTML & CSS From The Beginning",
+        "level": "BEGINNER",
+        "url": "https://traversymedia.com/modern-html-css-course"
+    },
+    {
+        "id": 8,
+        "title": "Node.js API Masterclass",
+        "level": "INTERMEDIATE",
+        "url": "https://traversymedia.com/node-js-api-masterclass"
+    },
+    {
+        "id": 9,
+        "title": "Next.js Dev To Deployment",
+        "level": "INTERMEDIATE",
+        "url": "https://traversymedia.com/next-js-dev-to-deployment"
+    },
+    {
+        "id": 10,
+        "title": "React Course for Begineers",
+        "level": "INTERMEDIATE",
+        "url": "https://traversymedia.com/node-js-api-masterclass"
+    },
+    {
+        "id": 11,
+        "title": "PHP Course for Begineers",
+        "level": "INTERMEDIATE",
+        "url": "https://traversymedia.com/node-js-api-masterclass"
+    },
+    {
+        "id": 12,
+        "title": "XLSX Course for Begineers",
+        "level": "BEGINNER - INTERMEDIATE",
+        "url": "https://traversymedia.com/node-js-api-masterclass"
+    },
+    {
+        "id": 13,
+        "title": "Puppeteer Course for Begineers",
+        "level": "INTERMEDIATE",
+        "url": "https://traversymedia.com/node-js-api-masterclass"
+    },
+    {
+        "id": 14,
+        "title": "Node.js Projects Course for Begineers",
+        "level": "INTERMEDIATE",
+        "url": "https://traversymedia.com/node-js-api-masterclass"
+    },
+    {
+        "id": 15,
+        "title": "Express.js Course for Begineers",
+        "level": "INTERMEDIATE",
+        "url": "https://traversymedia.com/node-js-api-masterclass"
+    },
+    {
+        "id": 16,
+        "title": "Tailwind Course for Begineers",
+        "level": "INTERMEDIATE",
+        "url": "https://traversymedia.com/node-js-api-masterclass"
+    }
+]
